@@ -1,0 +1,12 @@
+===== Podaci o putovanju =====
+Ime i prezime: Milica Mileusnić
+JMBG: 1302004715063
+Broj pasoša: 123456789
+Destinacija: Luksemburg
+Datum prijave: 16.07.2025.
+Datum ulaska u EU: 10.01.2027.
+Datum izlaska iz EU: 20.01.2027.
+Broj dana boravka u EU: 11
+Prevoz: putnicki_automobil
+Da li korisnik treba da plaća prijavu: DA
+==============================

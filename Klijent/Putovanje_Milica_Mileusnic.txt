@@ -1,0 +1,12 @@
+===== Podaci o putovanju =====
+Ime i prezime: Milica Mileusnic
+JMBG: 1302004715063
+Broj pasoša: 123456789
+Destinacija: Spanija
+Datum prijave: 22.07.2025.
+Datum ulaska u EU: 12.11.2025.
+Datum izlaska iz EU: 15.11.2025.
+Broj dana boravka u EU: 4
+Prevoz: putnicki_automobil
+Da li korisnik treba da plaća prijavu: DA
+==============================
