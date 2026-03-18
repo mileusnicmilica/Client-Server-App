@@ -20,7 +20,7 @@ Socket Programming
 
 Java Swing (GUI)
 
-(add database if used, e.g. MySQL / SQLite)
+(add database if used, MySQL)
 
 **How to Run**
 
